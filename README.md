@@ -11,7 +11,8 @@ Use this command to see if pip is installed and if not, it will install the pip
  py -m pip install --upgrade pip : This will upgarde the pip version
 
  Once pip is installed, we can install the package called as requests
- from cmd we need to write,
+ from cmd we need to write:
+ 
  pip -m py install requests
  
 
