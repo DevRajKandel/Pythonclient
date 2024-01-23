@@ -13,7 +13,7 @@ Use this command to see if pip is installed and if not, it will install the pip
  Once pip is installed, we can install the package called as requests
  from cmd we need to write:
  
- pip -m py install requests
+ py -m pip install requests
  
 
  
